@@ -1,2 +1,2 @@
-# proba
-Térinformatikai alkalmazások című kurzus próba 2025
+# Térinfó repozitórium próba
+Térinformatikai alkalmazások 2025 című kurzus próbája
