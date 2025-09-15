@@ -8,3 +8,4 @@ A tárgy lényeges pontjai:
 - HTML kód készítés
 - JavaScript
 - stb
+- űűű
