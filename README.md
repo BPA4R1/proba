@@ -1,5 +1,10 @@
 # Térinfó repozitórium próba
 Térinformatikai alkalmazások 2025 című kurzus próbája
 
-Jajj de jó lenne a tárgy lényegéről írni.
-Mondjuk egy felsorolás formájában.
+A tárgy lényeges pontjai:
+- WebGIS ismertetés
+- Internet alapismeretek
+- git ismeretek
+- HTML kód készítés
+- JavaScript
+- stb
