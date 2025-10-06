@@ -11,5 +11,10 @@
 <p>Ne tudd meg ki vagyok!</p>
 <h1>Magamról</h1>
 <h2>Kedvteléseim</h2>
+<!-- Lista -->
+<li>Barátnőm</li>
+<li>Társasjáték</li>
+<li>Hálás Massza</li>
+<li>Barátok (Isti, Merse)</li>
 <body>
 </html>
